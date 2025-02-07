@@ -23,7 +23,6 @@ The project aims to:
 - **Language**: C
 - **Operating System**: Compatible with Windows, Linux, and macOS.
 - **Compiler**: GCC or Clang.
-- **Libraries**: ncurses (Linux/macOS) or Windows Console API (for Windows).
 
 ## Installation
 
